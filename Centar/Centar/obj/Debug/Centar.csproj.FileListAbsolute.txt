@@ -34,3 +34,7 @@ C:\Users\El-Sahin\Desktop\Centar\Centar\bin\Debug\Centar.exe.config
 C:\Users\El-Sahin\Desktop\Centar\Centar\obj\Debug\Centar.exe
 C:\Users\El-Sahin\Desktop\Centar\Centar\obj\Debug\Centar.pdb
 C:\Users\El-Sahin\Desktop\Centar\Centar\obj\Debug\Centar.csprojResolveAssemblyReference.cache
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Add_Radnika.baml
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Edit_Radnika.baml
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Add_Radnika.g.cs
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Edit_Radnika.g.cs
