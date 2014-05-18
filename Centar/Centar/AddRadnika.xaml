@@ -1,0 +1,42 @@
+﻿<Window x:Class="edit_i_dodavanje_radnika.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="399" Width="500" Activated="Window_Activated">
+    <Grid x:Name="grid_add_radnika" Margin="18,22,0,8" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="471">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="13*"/>
+            <ColumnDefinition Width="458*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="333*"/>
+        </Grid.RowDefinitions>
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="-0.135"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Label x:Name="label_ime_add" Content="Ime:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="17.575,45,0,0" Grid.Row="1" Grid.Column="1"/>
+        <Label x:Name="label_prezime_add" Content="Prezime:" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="2.036,3.71" Margin="17.575,76,0,0" Grid.Row="1" Grid.Column="1"/>
+        <Label x:Name="label_adresa_add" Content="Adresa:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="17.575,107,0,0" Grid.Row="1" Grid.Column="1"/>
+        <Label x:Name="label_opisPosla_add" Content="Opis posla:" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.145,1.823" Margin="17.575,138,0,0" Grid.Row="1" Grid.Column="1"/>
+        <Label x:Name="label_datumRodjenja_add" Content="Datum rodjenja:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="17.575,170,0,0" Grid.Row="1" Grid.Column="1"/>
+        <Label x:Name="label_jmb_add" Content="JMB:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="17.575,14,0,0" RenderTransformOrigin="-0.958,-0.329" Grid.Row="1" Grid.Column="1"/>
+        <TextBox x:Name="textBox_jmb_add" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" Margin="200.575,18,0,0" Grid.Row="1" Grid.Column="1"/>
+        <TextBox x:Name="textBox_adresa_add" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" Margin="200.575,111,0,0" Grid.Row="1" Grid.Column="1"/>
+        <TextBox x:Name="textBox_ime_add" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" Margin="200.575,49,0,0" Grid.Row="1" Grid.Column="1"/>
+        <TextBox x:Name="textBox_prezime_add" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" Margin="200.575,80,0,0" Grid.Row="1" Grid.Column="1"/>
+        <TextBox x:Name="textBox_opisPosla_add" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" Margin="200.575,141,0,0" Grid.Row="1" TextChanged="textBox_opisPosla_add_TextChanged" Grid.Column="1"/>
+        <DatePicker x:Name="DatePicker_datumRodjenja_add" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200.575,170,0,0" Width="235" Grid.Row="1" Grid.Column="1"/>
+        <Button x:Name="button_add" Content="Dodaj" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="250.575,293,0,0" Grid.Row="1" Grid.Column="1"/>
+        <Button x:Name="button_cancel_add" Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="360.575,293,0,0" Grid.Row="1" Grid.Column="1"/>
+        <Label x:Name="label_username_add" Content="Username:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="17.575,201,0,0" Grid.Row="1" Grid.Column="1"/>
+        <Label x:Name="label_password_add" Content="Password:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="17.575,232,0,0" Grid.Row="1" Grid.Column="1"/>
+        <PasswordBox x:Name="pwBox_add" HorizontalAlignment="Left" Margin="201,232,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="235" Grid.Column="1"/>
+        <TextBox x:Name="textBox_username_add" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" Margin="200.575,201,0,0" Grid.Row="1" Grid.Column="1"/>
+
+    </Grid>
+</Window>
