@@ -1,0 +1,323 @@
+C:\Users\Amela29\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\bin\Debug\Centar.exe.config
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\bin\Debug\Centar.exe.config
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Centar.csprojResolveAssemblyReference.cache
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\MainWindow.baml
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\MainWindow.g.cs
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\App.g.cs
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Centar_MarkupCompile.cache
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Centar.g.resources
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Centar.Properties.Resources.resources
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Centar.csproj.GenerateResource.Cache
+C:\Users\Mirza\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\bin\Debug\Centar.exe.config
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Login.baml
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Login.g.cs
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\bin\Debug\Centar.exe
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\bin\Debug\Centar.pdb
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Centar.exe
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Centar.pdb
+C:\Users\El-Sahin\Documents\Centar\Centar\bin\Debug\Centar.exe.config
+C:\Users\El-Sahin\Documents\Centar\Centar\obj\Debug\Centar.exe
+C:\Users\El-Sahin\Documents\Centar\Centar\obj\Debug\Centar.pdb
+C:\Users\El-Sahin\Documents\Centar\Centar\obj\Debug\Centar.csprojResolveAssemblyReference.cache
+C:\Users\El-Sahin\Documents\Centar\Centar\obj\Debug\Login.baml
+C:\Users\El-Sahin\Documents\Centar\Centar\obj\Debug\MainWindow.baml
+C:\Users\El-Sahin\Documents\Centar\Centar\obj\Debug\Login.g.cs
+C:\Users\El-Sahin\Documents\Centar\Centar\obj\Debug\MainWindow.g.cs
+C:\Users\El-Sahin\Documents\Centar\Centar\obj\Debug\App.g.cs
+C:\Users\El-Sahin\Documents\Centar\Centar\obj\Debug\Centar_MarkupCompile.cache
+C:\Users\El-Sahin\Documents\Centar\Centar\obj\Debug\Centar.g.resources
+C:\Users\El-Sahin\Documents\Centar\Centar\obj\Debug\Centar.Properties.Resources.resources
+C:\Users\El-Sahin\Documents\Centar\Centar\obj\Debug\Centar.csproj.GenerateResource.Cache
+C:\Users\El-Sahin\Documents\Centar\Centar\bin\Debug\Centar.exe
+C:\Users\El-Sahin\Documents\Centar\Centar\bin\Debug\Centar.pdb
+C:\Users\El-Sahin\Desktop\Centar\Centar\bin\Debug\Centar.exe.config
+C:\Users\El-Sahin\Desktop\Centar\Centar\obj\Debug\Centar.exe
+C:\Users\El-Sahin\Desktop\Centar\Centar\obj\Debug\Centar.pdb
+C:\Users\El-Sahin\Desktop\Centar\Centar\obj\Debug\Centar.csprojResolveAssemblyReference.cache
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Add_Radnika.baml
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Edit_Radnika.baml
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Add_Radnika.g.cs
+C:\Users\El-Sahin\Documents\GitHub\Centar-za-udomljavanje-pasa\Centar\Centar\obj\Debug\Edit_Radnika.g.cs
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\bin\Debug\Centar.exe.config
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar.exe
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar.pdb
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar.csprojResolveAssemblyReference.cache
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Add_Radnika.baml
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Edit_Radnika.baml
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Login.baml
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\MainWindow.baml
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Add_Radnika.g.cs
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Edit_Radnika.g.cs
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Login.g.cs
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\MainWindow.g.cs
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\App.g.cs
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar_MarkupCompile.cache
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar.g.resources
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar.Properties.Resources.resources
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar.csproj.GenerateResource.Cache
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\bin\Debug\Centar.exe
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\bin\Debug\Centar.pdb
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\El-Sahin\Documents\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar_MarkupCompile.lref
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\bin\Debug\Centar.exe.config
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\bin\Debug\Centar.exe
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\bin\Debug\Centar.pdb
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Login.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\MainWindow.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Add_Psa.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Add_Radnika.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Edit_Radnika.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Login.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\MainWindow.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\App.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar_MarkupCompile.cache
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar_MarkupCompile.lref
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Add_Psa.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Add_Radnika.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Edit_Radnika.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar.g.resources
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar.Properties.Resources.resources
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar.csproj.GenerateResource.Cache
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar.exe
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar.pdb
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Centar.csprojResolveAssemblyReference.cache
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Login_prva.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Login_prva.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Gost.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar-za-udomljavanje-pasa-najnovije\Centar-za-udomljavanje-pasaV1234569\Centar\Centar\obj\Debug\Gost.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar\bin\Debug\Centar.exe.config
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Centar.exe
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Centar.csprojResolveAssemblyReference.cache
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Login.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Gost.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Login_prva.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\MainWindow.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Add_Psa.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Add_Radnika.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Edit_Radnika.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Login.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Gost.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Login_prva.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\MainWindow.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\App.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Centar_MarkupCompile.cache
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Centar_MarkupCompile.lref
+C:\Users\El-Sahin\Desktop\New folder\Centar\bin\Debug\Centar.exe
+C:\Users\El-Sahin\Desktop\New folder\Centar\bin\Debug\Centar.pdb
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Add_Psa.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Add_Radnika.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Edit_Radnika.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Centar.g.resources
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Centar.Properties.Resources.resources
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Centar.csproj.GenerateResource.Cache
+C:\Users\El-Sahin\Desktop\New folder\Centar\obj\Debug\Centar.pdb
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\bin\Debug\Centar.exe.config
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Centar.exe
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Centar.pdb
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\bin\Debug\Centar.exe
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\bin\Debug\Centar.pdb
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Centar.csprojResolveAssemblyReference.cache
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Login.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Gost.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Login_prva.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\MainWindow.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Add_Psa.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Add_Radnika.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Edit_Radnika.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Login.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Gost.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Login_prva.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\MainWindow.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\App.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Centar_MarkupCompile.cache
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Centar_MarkupCompile.lref
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Add_Psa.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Add_Radnika.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Edit_Radnika.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Centar.g.resources
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Centar.Properties.Resources.resources
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Centar.csproj.GenerateResource.Cache
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Edit_Psa.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Edit_Psa.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Add_Klijenta.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Edit_Klijenta.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Add_Klijenta.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Edit_Klijenta.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\ObrisiUgovor.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\PotpisiUgovor.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Ugovor_Opcije.baml
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\ObrisiUgovor.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\PotpisiUgovor.g.cs
+C:\Users\El-Sahin\Desktop\Centar naj naj naj novije\Centar\obj\Debug\Ugovor_Opcije.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\bin\Debug\Centar.exe.config
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar.exe
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar.pdb
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\bin\Debug\Centar.exe
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\bin\Debug\Centar.pdb
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar.csprojResolveAssemblyReference.cache
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Login.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Gost.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Login_prva.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\MainWindow.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\ObrisiUgovor.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\PotpisiUgovor.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Ugovor_Opcije.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Add_Klijenta.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Add_Psa.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Add_Radnika.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Edit_Klijenta.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Edit_Psa.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Edit_Radnika.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Login.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Gost.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Login_prva.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\MainWindow.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\ObrisiUgovor.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\PotpisiUgovor.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Ugovor_Opcije.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\App.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar_MarkupCompile.cache
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar_MarkupCompile.lref
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Add_Klijenta.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Add_Psa.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Add_Radnika.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Edit_Klijenta.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Edit_Psa.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Edit_Radnika.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar.g.resources
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar.Properties.Resources.resources
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar.csproj.GenerateResource.Cache
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\bin\Debug\Centar.exe.config
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar.exe
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar.pdb
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\bin\Debug\Centar.exe
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\bin\Debug\Centar.pdb
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar.csprojResolveAssemblyReference.cache
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Gost.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Login.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Login_prva.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\MainWindow.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\ObrisiUgovor.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\PotpisiUgovor.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Ugovor_Opcije.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Add_Klijenta.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Add_Psa.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Add_Radnika.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Edit_Klijenta.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Edit_Psa.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Edit_Radnika.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Gost.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Login.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Login_prva.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\MainWindow.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\ObrisiUgovor.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\PotpisiUgovor.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Ugovor_Opcije.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\App.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar_MarkupCompile.cache
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar_MarkupCompile.lref
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Add_Klijenta.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Add_Psa.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Add_Radnika.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Edit_Klijenta.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Edit_Psa.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Edit_Radnika.baml
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar.g.resources
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar.Properties.Resources.resources
+C:\Users\El-Sahin\Desktop\New folder\Centar TEST verzija\Centar TEST verzija\Centar\obj\Debug\Centar.csproj.GenerateResource.Cache
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\bin\Debug\Centar.exe.config
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar.exe
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar.pdb
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\bin\Debug\Centar.exe
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\bin\Debug\Centar.pdb
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\bin\Debug\WebcamControl.dll
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\bin\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\bin\Debug\Microsoft.Expression.Encoder.xml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar.csprojResolveAssemblyReference.cache
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Gost.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Login.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Login_prva.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\MainWindow.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\ObrisiUgovor.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\PotpisiUgovor.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Ugovor_Opcije.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\WebCamera.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Add_Klijenta.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Add_Psa.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Add_Radnika.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Edit_Klijenta.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Edit_Psa.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Edit_Radnika.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Gost.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Login.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Login_prva.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\MainWindow.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\ObrisiUgovor.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\PotpisiUgovor.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Ugovor_Opcije.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\WebCamera.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\App.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar_MarkupCompile.cache
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar_MarkupCompile.lref
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Add_Klijenta.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Add_Psa.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Add_Radnika.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Edit_Klijenta.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Edit_Psa.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Edit_Radnika.baml
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar.g.resources
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar.Properties.Resources.resources
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar.csproj.GenerateResource.Cache
+C:\Users\El-Sahin\Desktop\Centar POSLJEDNJA verzija\Centar\bin\Debug\OnBarcode.Barcode.BarcodeScanner.dll
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\bin\Debug\Centar.exe.config
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\bin\Debug\Centar.exe
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\bin\Debug\Centar.pdb
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\bin\Debug\OnBarcode.Barcode.BarcodeScanner.dll
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\bin\Debug\WebcamControl.dll
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Gost.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Login.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Login_prva.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\MainWindow.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\ObrisiUgovor.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\PotpisiUgovor.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Ugovor_Opcije.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\WebCamera.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Add_Klijenta.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Add_Psa.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Add_Radnika.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Edit_Klijenta.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Edit_Psa.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Edit_Radnika.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Gost.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Login.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Login_prva.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\MainWindow.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\ObrisiUgovor.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\PotpisiUgovor.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Ugovor_Opcije.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\WebCamera.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\App.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar_MarkupCompile.cache
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar_MarkupCompile.lref
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Add_Klijenta.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Add_Psa.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Add_Radnika.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Edit_Klijenta.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Edit_Psa.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Edit_Radnika.baml
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar.g.resources
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar.Properties.Resources.resources
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar.csproj.GenerateResource.Cache
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar.exe
+D:\ETF\4. semestar\Objektno orijentisana analiza i dizajn\Centar POSLJEDNJA verzija\Centar POSLJEDNJA verzija\Centar\obj\Debug\Centar.pdb

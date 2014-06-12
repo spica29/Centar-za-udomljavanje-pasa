@@ -1,0 +1,53 @@
+﻿<Window x:Class="Edit_psa_namespace.Edit_Psa"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Centar"
+        Title="Edit_Psa" Height="373.134" Width="432.835" Activated="Window_Activated" ResizeMode="NoResize">
+    <Window.Resources>
+        <Style x:Key="ComboBoxInError" TargetType="{x:Type ComboBox}">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="true">
+                    <Setter Property="ToolTip" Value="{Binding (Validation.Errors)[0].ErrorContent, RelativeSource={x:Static RelativeSource.Self}}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <local:Pas x:Key="data"/>
+    </Window.Resources>
+    <Grid Margin="0,0,2,6" Loaded="Grid_Loaded_1">
+
+        <Label x:Name="label_id_psa_add" VerticalAlignment="Top" Margin="41,46,0,0" HorizontalAlignment="Left" Content="Id:"/>
+        <Label x:Name="label_zdravstveno_stanje_add" VerticalAlignment="Top" Margin="41,77,0,0" HorizontalAlignment="Left" Content="Zdravstveno stanje:"/>
+        <Label x:Name="label_datumCipiranja_add" VerticalAlignment="Top" Margin="41,108,0,0" HorizontalAlignment="Left" Content="Datum cipiranja:"/>
+        <Label x:Name="label_datumRodjenja_add" VerticalAlignment="Top" Margin="41,139,0,0" HorizontalAlignment="Left" Content="Datum rodjenja:"/>
+        <Label x:Name="label_stats_add" VerticalAlignment="Top" Margin="41,170,0,0" HorizontalAlignment="Left" Content="Status:"/>
+        <Label x:Name="label_sterilizovan_add" VerticalAlignment="Top" Margin="41,201,0,0" HorizontalAlignment="Left" Content="Sterilizovan:"/>
+        <Label x:Name="label_datumSterilizacije_add" VerticalAlignment="Top" Margin="41,232,0,0" HorizontalAlignment="Left" Content="Datum sterilizacije:"/>
+        <TextBox x:Name="textBox_idPsa_add" Width="211" VerticalAlignment="Top" TextWrapping="Wrap" Margin="197,46,0,0" Height="23" HorizontalAlignment="Left" TabIndex="1"/>
+        <ComboBox x:Name="ComboBox_zdrStanje_add" Focusable="True" Style="{StaticResource ComboBoxInError}" Cursor="{Binding ElementName=Box1, Path=(Validation.Errors)[0].ErrorContent}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="211" Margin="197,81,0,0" TabIndex="2">
+            <ComboBox.Text>
+                <Binding Path="zdravstvenoStanje" Source="{StaticResource data}" ValidatesOnDataErrors="True" UpdateSourceTrigger="PropertyChanged">
+                    <Binding.ValidationRules>
+                        <ExceptionValidationRule/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </ComboBox.Text>
+        </ComboBox><DatePicker x:Name="datePicker_datCipiranja_add" Width="211" VerticalAlignment="Top" Margin="197,110,0,0" HorizontalAlignment="Left" TabIndex="3"/>
+        <DatePicker x:Name="datePicker_datRodj_add" Width="211" VerticalAlignment="Top" Margin="197,141,0,0" HorizontalAlignment="Left" TabIndex="4"/>
+        <DatePicker x:Name="datePicker_datSter_add" Width="211" VerticalAlignment="Top" Margin="197,234,0,0" HorizontalAlignment="Left" TabIndex="8"/>
+        <ComboBox x:Name="comboBox_status_add" Width="211" VerticalAlignment="Top" Style="{StaticResource ComboBoxInError}" Margin="197,174,0,0" HorizontalAlignment="Left" Focusable="True" Cursor="{Binding (Validation.Errors)[0].ErrorContent, ElementName=Box1}" TabIndex="5">
+            <ComboBox.Text>
+                <Binding ValidatesOnDataErrors="True" UpdateSourceTrigger="PropertyChanged" Source="{StaticResource data}" Path="status">
+                    <Binding.ValidationRules>
+                        <ExceptionValidationRule/>
+                    </Binding.ValidationRules>
+                </Binding>
+            </ComboBox.Text>
+        </ComboBox>
+        <RadioButton x:Name="radioButton_da_add" VerticalAlignment="Top" Margin="197,207,0,0" HorizontalAlignment="Left" Content="Da" Checked="radioButton_da_add_Checked" TabIndex="6"/>
+        <RadioButton x:Name="radioButton_ne_add" VerticalAlignment="Top" Margin="323,207,0,0" HorizontalAlignment="Left" Content="Ne" Checked="radioButton_ne_add_Checked" TabIndex="7"/>
+        <Button x:Name="buttonEdit" Content="Edit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="221,294,0,0" Click="buttonEdit_Click" TabIndex="9"/>
+        <Button x:Name="buttonCancel" Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="333,294,0,0" Click="buttonCancel_Click" TabIndex="10"/>
+        <Button x:Name="buttonKamera" Content="Kamera" HorizontalAlignment="Left" Margin="27,294,0,0" VerticalAlignment="Top" Width="75" Click="buttonKamera_Click"/>
+
+    </Grid>
+</Window>

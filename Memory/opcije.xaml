@@ -1,0 +1,11 @@
+﻿<Window x:Class="Memory.opcije"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="opcije" Height="217.91" Width="213.433">
+    <Grid>
+        <Button x:Name="button_pocetna" Content="Vrati na pocetnu" HorizontalAlignment="Left" Margin="53,34,0,0" VerticalAlignment="Top" Width="93" Click="button_pocetna_Click"/>
+        <Button x:Name="button_ponovo" Content="Igraj ponovo" HorizontalAlignment="Left" Margin="53,82,0,0" VerticalAlignment="Top" Width="93" Click="button_ponovo_Click"/>
+        <Button x:Name="button_izadji" Content="Izadji iz igre" HorizontalAlignment="Left" Margin="53,132,0,0" VerticalAlignment="Top" Width="93" Click="button_izadji_Click"/>
+
+    </Grid>
+</Window>

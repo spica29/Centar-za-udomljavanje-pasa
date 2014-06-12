@@ -1,0 +1,58 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Centar" x:Class="Edit_Klijenta_namespace.Edit_Klijenta"
+        Title="Edit_Klijenta" Height="312.865" Width="437.359" Activated="Window_Activated" ResizeMode="NoResize">
+    <Window.Resources>
+        <Style x:Key="textBoxInError" TargetType="{x:Type TextBox}">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="true">
+                    <Setter Property="ToolTip" Value="{Binding (Validation.Errors)[0].ErrorContent, RelativeSource={x:Static RelativeSource.Self}}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <local:Radnik x:Key="data"/>
+    </Window.Resources>
+    <Grid>
+
+        <Label x:Name="label_ime_edit" VerticalAlignment="Top" Margin="30.575,50,0,0" HorizontalAlignment="Left" Content="Ime:"/>
+        <Label x:Name="label_prezime_edit" VerticalAlignment="Top" RenderTransformOrigin="2.036,3.71" Margin="30.575,81,0,0" HorizontalAlignment="Left" Content="Prezime:"/>
+        <Label x:Name="label_adresa_edit" VerticalAlignment="Top" Margin="30.575,112,0,0" HorizontalAlignment="Left" Content="Adresa:"/>
+        <Label x:Name="label_jmb_edit" VerticalAlignment="Top" RenderTransformOrigin="-0.958,-0.329" Margin="30.575,19,0,0" HorizontalAlignment="Left" Content="JMB:"/>
+        <TextBox x:Name="textBox_jmb_edit" Width="235" VerticalAlignment="Top" TextWrapping="Wrap" Style="{StaticResource textBoxInError}" Margin="174,19,0,0" Height="23" HorizontalAlignment="Left" Focusable="True" Cursor="{Binding (Validation.Errors)[0].ErrorContent, ElementName=Box1}" TabIndex="1">
+            <Binding ValidatesOnDataErrors="True" UpdateSourceTrigger="PropertyChanged" Source="{StaticResource data}" Path="jmb">
+                <Binding.ValidationRules>
+                    <ExceptionValidationRule/>
+                </Binding.ValidationRules>
+            </Binding>
+        </TextBox>
+        <TextBox x:Name="textBox_adresa_edit" Width="235" VerticalAlignment="Top" TextWrapping="Wrap" Style="{StaticResource textBoxInError}" Margin="174,115,0,0" Height="23" HorizontalAlignment="Left" Focusable="True" Cursor="{Binding (Validation.Errors)[0].ErrorContent, ElementName=Box1}" TabIndex="5">
+            <Binding ValidatesOnDataErrors="True" UpdateSourceTrigger="PropertyChanged" Source="{StaticResource data}" Path="adresa">
+                <Binding.ValidationRules>
+                    <ExceptionValidationRule/>
+                </Binding.ValidationRules>
+            </Binding>
+        </TextBox>
+        <TextBox x:Name="textBox_ime_edit" Width="235" VerticalAlignment="Top" TextWrapping="Wrap" Style="{StaticResource textBoxInError}" Margin="174,50,0,0" Height="23" HorizontalAlignment="Left" Focusable="True" Cursor="{Binding (Validation.Errors)[0].ErrorContent, ElementName=Box1}" TabIndex="2">
+            <Binding ValidatesOnDataErrors="True" UpdateSourceTrigger="PropertyChanged" Source="{StaticResource data}" Path="ime">
+                <Binding.ValidationRules>
+                    <ExceptionValidationRule/>
+                </Binding.ValidationRules>
+            </Binding>
+        </TextBox>
+        <TextBox x:Name="textBox_prezime_edit" Width="235" VerticalAlignment="Top" TextWrapping="Wrap" Style="{StaticResource textBoxInError}" Margin="174,84,0,0" Height="23" HorizontalAlignment="Left" Focusable="True" Cursor="{Binding (Validation.Errors)[0].ErrorContent, ElementName=Box1}" TabIndex="3">
+            <Binding ValidatesOnDataErrors="True" UpdateSourceTrigger="PropertyChanged" Source="{StaticResource data}" Path="prezime">
+                <Binding.ValidationRules>
+                    <ExceptionValidationRule/>
+                </Binding.ValidationRules>
+            </Binding>
+        </TextBox>
+        <Label x:Name="label_vlasnikPsa" Content="Vlasnik psa:" HorizontalAlignment="Left" Margin="31,143,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboBox_vlasnikPsa" HorizontalAlignment="Left" VerticalAlignment="Top" Width="235" Margin="174,147,0,0" TabIndex="6"/>
+        <Label x:Name="label_datumPreuzimanja" Content="Datum preuzimanja psa:" HorizontalAlignment="Left" Margin="31,174,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="datePicker_datumPreuzimanja" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="174,175,0,0" Width="235" TabIndex="7"/>
+        <Button x:Name="button_edit" Content="Edit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="233,229,0,0" Click="button_edit_Click" TabIndex="8"/>
+        <Button x:Name="button_cancel" Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="334,229,0,0" Click="button_cancel_Click" TabIndex="9"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,31 @@
+﻿<Window x:Class="Centar.Login_prva"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login_prva" Height="371.716" Width="861.216" Background="#FF0E0D0D" ResizeMode="NoResize" >
+    <Grid Margin="0,0,2,0" Background="Black" Loaded="Grid_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="841*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label_welcomeAdmin" Content="Dobro došli" HorizontalAlignment="Left" Margin="29,10,0,0" VerticalAlignment="Top" Height="48" Width="548" Background="Black" Foreground="GreenYellow" TextElement.FontSize="30" Grid.Column="1"/>
+        <Button x:Name="button_logout" Content="LOGOUT" HorizontalAlignment="Left" Margin="669,25,0,0" VerticalAlignment="Top" Width="143" Height="48" TextElement.FontSize="30" Background="GreenYellow" Click="button_logout_Click" Grid.Column="1" TabIndex="10"/>
+        <Button x:Name="button_search" Content="Search" HorizontalAlignment="Left" Margin="29,103,0,0" VerticalAlignment="Top" Width="144" Height="48" TextElement.FontSize="30" Background="GreenYellow" Click="button_search_Click" Grid.Column="1" TabIndex="1"/>
+        <Button x:Name="button_Ugovor" Content="Ugovor" HorizontalAlignment="Left" Margin="235,103,0,0" VerticalAlignment="Top" Width="144" Height="48" TextElement.FontSize="30" Background="GreenYellow" Click="button_ugovor_Click" Grid.Column="1" TabIndex="3"/>
+        <TextBox x:Name="textBox_search" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="1" Margin="29,194,0,0" TextChanged="textBox_search_TextChanged"/>
+        <RadioButton x:Name="radioButton_searchPsa" Content="po psu" Grid.Column="1" HorizontalAlignment="Left" Margin="29,165,0,0" VerticalAlignment="Top" Background="GreenYellow" Foreground="GreenYellow" Height="24" Width="91" FontSize="20" Checked="radioButton_searchKlijenta_Checked" TabIndex="5"/>
+        <RadioButton x:Name="radioButton_searchKlijenta" Content="po klijentu" Grid.Column="1" HorizontalAlignment="Left" Margin="125,165,0,0" VerticalAlignment="Top" Background="GreenYellow" Foreground="GreenYellow" Height="24" Width="121" FontSize="20" Checked="radioButton_searchKlijenta_Checked" TabIndex="6"/>
+        <RadioButton x:Name="radioButton_searchRadnika" Content="po radniku" Grid.Column="1" HorizontalAlignment="Left" Margin="251,165,0,0" VerticalAlignment="Top" Background="GreenYellow" Foreground="GreenYellow" Height="24" Width="128" FontSize="20" Checked="radioButton_searchKlijenta_Checked" TabIndex="7"/>
+        <ListBox x:Name="listBox_login" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="522" Grid.Column="1" Margin="29,221,0,0" TabIndex="8">
+            <ListBox.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Edit" Click="MenuItemEdit_Click"/>
+                    <MenuItem Header="Obrisi" Click="MenuItemObrisi_Click"/>
+                </ContextMenu>
+            </ListBox.ContextMenu>
+        </ListBox>
+        <Button x:Name="button_VratiMeni" Content="Vrati meni" HorizontalAlignment="Left" Margin="499,63,0,0" VerticalAlignment="Top" Width="98" Height="35" TextElement.FontSize="30" Background="GreenYellow" Click="button_vratimeni_Click" Grid.Column="1" FontSize="20" TabIndex="9"/>
+        <Label x:Name="label_meni" Content="MENI:" HorizontalAlignment="Left" Margin="29,63,0,0" VerticalAlignment="Top" Height="35" Width="67" Background="Black" Foreground="GreenYellow" TextElement.FontSize="30" Grid.Column="1" FontSize="20"/>
+        <Button x:Name="button_Dodavanje" Content="Dodavanje" HorizontalAlignment="Left" Margin="453,103,0,0" VerticalAlignment="Top" Width="144" Height="48" TextElement.FontSize="30" Background="GreenYellow" Click="button_dodavanje_click" Grid.Column="1" TabIndex="4"/>
+
+    </Grid>
+</Window>

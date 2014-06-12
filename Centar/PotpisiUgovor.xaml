@@ -1,0 +1,16 @@
+﻿<Window x:Class="Centar.PotpisiUgovor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PotpisiUgovor" Height="470.149" Width="435.822" Background="Black" ResizeMode="NoResize">
+    <Grid Loaded="Grid_Loaded">
+        <Label x:Name="label_psi" Content="Izaberite psa:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="GreenYellow"/>
+        <Label x:Name="label_klijenti" Content="Izaberite klijenta:" HorizontalAlignment="Left" Margin="10,119,0,0" VerticalAlignment="Top" Foreground="GreenYellow"/>
+        <ListBox x:Name="listbox_psi" HorizontalAlignment="Left" Height="78" Margin="10,36,0,0" VerticalAlignment="Top" Width="402" TabIndex="1"/>
+        <ListBox x:Name="listbox_klijenti" HorizontalAlignment="Left" Height="78" Margin="10,150,0,0" VerticalAlignment="Top" Width="402" TabIndex="2"/>
+        <Label x:Name="label_radnik" Content="Odobrio radnik:" HorizontalAlignment="Left" Margin="10,246,0,0" VerticalAlignment="Top" Foreground="GreenYellow"/>
+        <ListBox x:Name="listbox_radnici" HorizontalAlignment="Left" Height="78" Margin="10,277,0,0" VerticalAlignment="Top" Width="402" TabIndex="3"/>
+        <Button x:Name="button_potpisi" Content="Potpisi" HorizontalAlignment="Left" Margin="244,385,0,0" VerticalAlignment="Top" Width="76" Height="30" FontSize="20" Click="button_potpisi_Click" TabIndex="4"/>
+        <Button x:Name="button_cancel" Content="Cancel" HorizontalAlignment="Left" Margin="336,385,0,0" VerticalAlignment="Top" Width="76" Height="30" FontSize="20" Click="button_cancel_Click" TabIndex="5"/>
+
+    </Grid>
+</Window>
