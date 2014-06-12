@@ -58,6 +58,12 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Add_Radnika.xaml.cs">
+      <DependentUpon>Add_Radnika.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Radnika.xaml.cs">
+      <DependentUpon>Edit_Radnika.xaml</DependentUpon>
+    </Compile>
     <Compile Include="GlavniCentar.cs" />
     <Compile Include="IDaoCrud.cs" />
     <Compile Include="Klijent.cs" />
@@ -71,6 +77,14 @@
     <Compile Include="RadnikDAO.cs" />
     <Compile Include="Ugovor.cs" />
     <Compile Include="UgovorDAO.cs" />
+    <Page Include="Add_Radnika.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Edit_Radnika.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="Login.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
